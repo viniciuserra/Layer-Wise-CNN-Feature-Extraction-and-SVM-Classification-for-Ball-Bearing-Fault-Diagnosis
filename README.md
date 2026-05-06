@@ -15,7 +15,6 @@ The CWRU data files are not included in this repository because they are externa
 ## Repository contents
 
 - `hybrid_cnn_svm_bearing_diagnosis.ipynb`: GitHub-friendly notebook for checking dependencies, locating the dataset, loading saved ablation outputs, and generating a compact results summary.
-- `DESCRICAO_DO_REPOSITORIO.md`: short Portuguese text that can be used as a repository/code description.
 - `ablation_outputs/`: optional folder for saved experiment outputs, if you want to publish results without retraining.
 - `eai_ablation_experiments.py` and/or `eai_ablation_experiments.ipynb`: full experiment code for the computationally expensive layer-wise ablation, if included in the repository.
 
